@@ -94,9 +94,3 @@ getAllUsers()
 .catch(error => {
   console.log(error);
 })
-
-
-/*
-{"ok":true,"access_token":"xoxp-237445142373-238398295319-466200914451-cb72ae0c6d6e70d5a1fc28fdfc490867","scope":"identify,users:read,usergroups:read,usergroups:write","user_id":"W6PHCN6LB","team_name":"Falcons","team_id":"T6ZD346AZ"}
-client_id=237445142373.467351391415&client_secret=4f381691c16a6aabbf945edffd3e5212&code=237445142373.466382684706.defbfb7d84c84266d09ed0a8ee049f5d97cfa0b7fc0649adde4cee8917c354a3
-*/
